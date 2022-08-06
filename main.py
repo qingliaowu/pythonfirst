@@ -5,7 +5,9 @@ day = 21
 month = 'Oct'
 temp = 65
 
-print (f"Today is {day}" )
+x = f"Today is {day}"
+
+print (x)
 
 
 a = True
